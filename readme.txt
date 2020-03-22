@@ -1,6 +1,3 @@
-# ML-and-Data-Mining
-Machine Learning and Data Mining project for creating a recommender based system
-
 Recommender System using Collaborative Filtering
 
 The tar package consists of the below files.
@@ -28,10 +25,9 @@ The dataset used has been taken from mk-100 dataset.
 	Contains the visualisations of the dataset
 
 4 NMF_implementation.ipynb
-	The implementation of Non â€“ Negative Matrix factoristion. 
+	The implementation of Non – Negative Matrix factoristion. 
 
 
 5. NMF Latent Features calc.ipynb
 	Calculation for the NMF Latent features. Is done seperately as the work was done by different team members.
-
 
